@@ -1,75 +1,66 @@
-# DMS Project
+DMS Project (Document Management System) 🚀
 
-## Project Overview
-**DMS (Document Management System)** is a web application built using **Flask** and **SQLAlchemy**.  
-It allows users to **upload, manage, and track documents** efficiently, with support for versioning and secure access.
+Overview
 
-## Features
-- **User Authentication:** Register and login securely.
-- **Document Upload & Download:** Users can upload documents and download them anytime.
-- **Version Control:** Maintain versions of documents automatically.
-- **Document Management:** Delete, archive, and search documents easily.
-- **File Organization:** Uploaded files are stored in structured directories.
-- **Frontend:** Clean HTML/CSS templates for a simple UI.
+DMS Project is a Document Management System where users can register, login, reset password, and manage documents.  
+It is built using Flask and SQLAlchemy, and is suitable for internship-level projects.
 
-## Project Structure
-DMS-Project/
-├── Backend/ # Flask backend (routes, models, helpers)
-├── Frontend/ # HTML templates & static files (CSS)
-├── Database/ # SQLite database files
-├── Storage/ # Uploaded documents storage
-├── Migrations/ # Database migration files
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+Features ✨
+- User Registration  
+- User Login  
+- Reset Password  
+- Upload Document  
+- Download Document  
+- Edit Document  
+- Delete Document  
 
-bash
-Copy code
 
-## Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/pragneshraval288-create/DMS-Project.git
-Navigate to the project folder:
+Technologies Used 🛠️
+Backend: Python, Flask, Flask-WTF, Flask-SQLAlchemy
+Frontend: HTML, CSS
+Database: SQLite
+Others: Flask-Migrate for database migrations
 
-bash
-Copy code
-cd DMS-Project
-Create a virtual environment:
+Setup Instructions ⚡
+Install Python 3.13+
+Clone the repository:
+git clone https://github.com/pragneshraval288-create/DMS-Project.git
 
-bash
-Copy code
+Create virtual environment:
 python -m venv venv
-Activate the virtual environment:
 
+Activate virtual environment:
 Windows: venv\Scripts\activate
-
 Linux/Mac: source venv/bin/activate
 
-Install required dependencies:
-
-bash
-Copy code
+Install required packages:
 pip install -r requirements.txt
-Run the Flask app:
 
-bash
-Copy code
-python app.py
-Open your browser and go to: http://127.0.0.1:5000/
+Apply database migrations:
+flask db upgrade
 
-Future Improvements
-Add role-based access control for documents.
+Run the project:
+flask run
 
-Implement search filters for faster document retrieval.
+Folder Structure 📂
+backend/      # Flask backend code
+Frontend/     # HTML templates & CSS files
+Database/     # SQLite database file
+instance/     # Flask instance folder
 
-Add automated tests (unit & integration tests).
+How to Use 🎯
+Open http://127.0.0.1:5000/ in your browser
+Register a user and log in
+Upload and download documents
 
-Enhance UI/UX with a modern frontend framework (React or Bootstrap).
+Demo / Screenshots 📸
+[Register Page](Frontend/static/screenshots/register.png)
+[Login Page](Frontend/static/screenshots/login.png)
+[Reset Password](Frontend/static/screenshots/reset_password.png)
+[Dashboard](Frontend/static/screenshots/dashboard.png)
+[Upload Document](Frontend/static/screenshots/upload.png)
+[View Document](Frontend/static/screenshots/View.png)
 
-Optimize performance and storage for large files.
-
-Contributing
-Contributions are welcome! Please fork the repository and create a pull request.
-
-License
-This project is open-source and available under the MIT License.
+Notes 📝
+This project is fully functional for internship purposes
+Advanced features like search, role-based access, or file versioning can be added later for extra polish
