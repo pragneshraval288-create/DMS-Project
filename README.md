@@ -54,13 +54,12 @@ Register a user and log in
 Upload and download documents
 
 Demo / Screenshots 📸
-![Register Page](https://github.com/pragneshraval288-create/DMS-Project/blob/main/frontend/static/screenshots/register.png?raw=true)
-![Login Page](https://github.com/pragneshraval288-create/DMS-Project/blob/main/frontend/static/screenshots/login.png?raw=true)
-![Reset Password](https://github.com/pragneshraval288-create/DMS-Project/blob/main/frontend/static/screenshots/reset_password.png?raw=true)
-![Dashboard](https://github.com/pragneshraval288-create/DMS-Project/blob/main/frontend/static/screenshots/dashboard.png?raw=true)
-![Upload Document](https://github.com/pragneshraval288-create/DMS-Project/blob/main/frontend/static/screenshots/upload.png?raw=true)
-![View Document](https://github.com/pragneshraval288-create/DMS-Project/blob/main/frontend/static/screenshots/view.png?raw=true)
-
+![Register Page](frontend/static/screenshots/register.png)
+![Login Page](frontend/static/screenshots/login.png)
+![Reset Password](frontend/static/screenshots/reset_password.png)
+![Dashboard](frontend/static/screenshots/dashboard.png)
+![Upload Document](frontend/static/screenshots/upload.png)
+![View Document](frontend/static/screenshots/view.png)
 
 Notes 📝
 This project is fully functional for internship purposes
