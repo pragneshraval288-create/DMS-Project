@@ -83,21 +83,9 @@ Upload and download documents
 Edit or delete documents as needed
 
 Screenshots Direct Links
-
-Register Page
-https://github.com/pragneshraval288-create/DMS-Project/blob/main/backend/frontend/static/screenshots/register.png?raw=true
-
-Login Page
-https://github.com/pragneshraval288-create/DMS-Project/blob/main/backend/frontend/static/screenshots/login.png?raw=true
-
-Reset Password
-https://github.com/pragneshraval288-create/DMS-Project/blob/main/backend/frontend/static/screenshots/reset_password.png?raw=true
-
-Dashboard
-https://github.com/pragneshraval288-create/DMS-Project/blob/main/backend/frontend/static/screenshots/dashboard.png?raw=true
-
-Upload Document
-https://github.com/pragneshraval288-create/DMS-Project/blob/main/backend/frontend/static/screenshots/upload.png?raw=true
-
-View Document
-https://github.com/pragneshraval288-create/DMS-Project/blob/main/backend/frontend/static/screenshots/view.png?raw=true
+![Register Page](backend/frontend/static/screenshots/register.png)
+![Login Page](backend/frontend/static/screenshots/login.png)
+![Reset Password](backend/frontend/static/screenshots/reset_password.png)
+![Dashboard](backend/frontend/static/screenshots/dashboard.png)
+![Upload Document](backend/frontend/static/screenshots/upload.png)
+![View Document](backend/frontend/static/screenshots/view.png)
