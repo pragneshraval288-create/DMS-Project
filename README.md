@@ -59,7 +59,7 @@ Demo / Screenshots 📸
 ![Reset Password](Frontend/static/screenshots/reset_password.png)
 ![Dashboard](Frontend/static/screenshots/dashboard.png)
 ![Upload Document](Frontend/static/screenshots/upload.png)
-![View Document](Frontend/static/screenshots/View.png)
+![View Document](Frontend/static/screenshots/view.png)
 
 Notes 📝
 This project is fully functional for internship purposes
