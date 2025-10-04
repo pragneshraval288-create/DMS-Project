@@ -54,12 +54,12 @@ Register a user and log in
 Upload and download documents
 
 Demo / Screenshots 📸
-![Register Page](frontend/static/screenshots/register.png)
-![Login Page](frontend/static/screenshots/login.png)
-![Reset Password](frontend/static/screenshots/reset_password.png)
-![Dashboard](frontend/static/screenshots/dashboard.png)
-![Upload Document](frontend/static/screenshots/upload.png)
-![View Document](frontend/static/screenshots/view.png)
+![Register Page](backend/frontend/static/screenshots/register.png)
+![Login Page](backend/frontend/static/screenshots/login.png)
+![Reset Password](backend/frontend/static/screenshots/reset_password.png)
+![Dashboard](backend/frontend/static/screenshots/dashboard.png)
+![Upload Document](backend/frontend/static/screenshots/upload.png)
+![View Document](backend/frontend/static/screenshots/view.png)
 
 Notes 📝
 This project is fully functional for internship purposes
